@@ -3,6 +3,9 @@
 ## Useful resources
 - [Cheat sheet for a similar course (CS229 at Stanford)](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - [Lecture wise notes of the course](https://www.holehouse.org/mlclass/)
+- [Tutorials for Programming exercises](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
+- [Sample test cases for Programming exercises](https://www.coursera.org/learn/machine-learning/discussions/all/threads/0SxufTSrEeWPACIACw4G5w)
+
 ## TODO
 
 - [x] Assignment 1 Submission
