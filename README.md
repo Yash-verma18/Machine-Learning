@@ -13,7 +13,7 @@
 - [x] Assignment 3 Submission
 - [x] Assignment 4 Submission
 - [x] Assignment 5 Submission
-- [ ] Assignment 6 Submission
+- [x] Assignment 6 Submission
 - [ ] Assignment 7 Submission
 - [ ] Assignment 8 Submission
 
