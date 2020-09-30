@@ -1,12 +1,17 @@
 # Coursera-MachineLearning-AndrewNg
 
+The material of this repository stem from the course Machine Learning organized by Prof. Andrew Ng, Stanford at Coursera. All the assignments and notes can be used as asupplement to the course's original material. 
+
+Note that the assignments are just added for reference and under no circumstance are to be copied directly. They can be used to get a general idea of the course's objectives and if someone is stuck at a particular problem.
+
+
 ## Useful resources
 - [Cheat sheet for a similar course (CS229 at Stanford)](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - [Lecture wise notes of the course](https://www.holehouse.org/mlclass/)
 - [Tutorials for Programming exercises](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
 - [Sample test cases for Programming exercises](https://www.coursera.org/learn/machine-learning/discussions/all/threads/0SxufTSrEeWPACIACw4G5w)
 
-## TODO
+## TODO Assignments
 
 - [x] Assignment 1 Submission
 - [x] Assignment 2 Submission
