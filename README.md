@@ -1,8 +1,9 @@
-# Coursera-MachineLearning-AndrewNg
+# Machine Learning
+The current contents of this repository stem from the course Machine Learning organized by Prof. Andrew Ng, Stanford at Coursera. All the assignments and notes can be used as asupplement to the course's original material. 
 
-The material of this repository stem from the course Machine Learning organized by Prof. Andrew Ng, Stanford at Coursera. All the assignments and notes can be used as asupplement to the course's original material. 
+The ultimate goal is to make this repo full of awesome MachineLearning resources like blog articles, research papers, etc for easy reference.
 
-Note that the assignments are just added for reference and under no circumstance are to be copied directly. They can be used to get a general idea of the course's objectives and if someone is stuck at a particular problem.
+- Note that the assignments are just added for reference and under no circumstance are to be copied directly. They can be used to get a general idea of the course's objectives and if someone is stuck at a particular problem.
 
 
 ## Useful resources
