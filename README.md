@@ -23,5 +23,8 @@ The ultimate goal is to make this repo full of awesome MachineLearning resources
 - [x] Assignment 7 Submission
 - [x] Assignment 8 Submission
 
+## Some latest & good articles on ML
+
+- [A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
 #### As Github doesn't open .mlx live scripts(unlike Jupyter.ipynb notebooks) directly, a PDF is added for each exercise. Simply open ex<exercise_number>.pdf for previewing the contents
