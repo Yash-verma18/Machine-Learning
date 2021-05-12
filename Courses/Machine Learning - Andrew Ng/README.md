@@ -1,5 +1,5 @@
 # Machine Learning - Andrew Ng, Coursera
-The current contents of this repository stem from the course Machine Learning organized by Prof. Andrew Ng, Stanford at Coursera. All the assignments and notes can be used as a supplement to the course's original material. 
+The current contents of this directory stem from the course Machine Learning organized by Prof. Andrew Ng, Stanford at Coursera. All the assignments and notes can be used as a supplement to the course's original material. 
 
 - Note that the assignments are just added for reference and under no circumstance are to be copied directly. They can be used to get a general idea of the course's objectives and if someone is stuck at a particular problem.
 
