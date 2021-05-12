@@ -1,7 +1,5 @@
-# Machine Learning
+# Machine Learning - Andrew Ng, Coursera
 The current contents of this repository stem from the course Machine Learning organized by Prof. Andrew Ng, Stanford at Coursera. All the assignments and notes can be used as a supplement to the course's original material. 
-
-The ultimate goal is to make this repo full of awesome MachineLearning resources like blog articles, research papers, etc for easy reference.
 
 - Note that the assignments are just added for reference and under no circumstance are to be copied directly. They can be used to get a general idea of the course's objectives and if someone is stuck at a particular problem.
 
@@ -23,8 +21,5 @@ The ultimate goal is to make this repo full of awesome MachineLearning resources
 - [x] Assignment 7 Submission
 - [x] Assignment 8 Submission
 
-## Useful articles
-
-- [A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
 #### As Github doesn't open .mlx live scripts(unlike Jupyter.ipynb notebooks) directly, a PDF is added for each exercise. Simply open ex<exercise_number>.pdf for previewing the contents
