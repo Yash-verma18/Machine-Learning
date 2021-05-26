@@ -5,6 +5,7 @@ The current contents of this directory stem from the course Machine Learning org
 
 
 ## Useful resources
+- [My own personal notes](https://github.com/adityasaini70/Machine-Learning/edit/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes)
 - [Cheat sheet for a similar course (CS229 at Stanford)](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - [Lecture wise notes of the course](https://www.holehouse.org/mlclass/)
 - [Tutorials for Programming exercises](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
