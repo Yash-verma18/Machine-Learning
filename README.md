@@ -11,14 +11,10 @@ The following notes stem from the course ['Machine Learning'](https://www.course
 | 1.  | [Simple Linear Regression](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week1-SimpleLinearRegression.pdf)  |
 | 2.  | [Multivariable Linear Regression](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week2-MultivariableLinearRegression.pdf)  |
 | 3.  | [Logistic Regression](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week3-LogisticRegression.pdf) |
-| 4.  | [Introduction to Neural networks](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week3-LogisticRegression.pdf) |
+| 4.  | [Introduction to Neural networks](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week_4.pdf) |
 | 5.  | [Training neural networks: Forward and backward propagation](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week3-LogisticRegression.pdf) |
 | 6.  | [Anomaly Detection](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week9-PartA-AnomalyDetection.pdf) |
 | 7.  | [Recommendation Systems](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week9-PartB-RecommendationSystems.pdf) |
-
-
-## Courses
-- [Machine Learning - Andrew Ng](https://github.com/adityasaini70/Machine-Learning/tree/master/Courses/Machine%20Learning%20-%20Andrew%20Ng)
 
 ## Useful books
 - [Pattern Recognition and Machine Learning - Christopher M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
