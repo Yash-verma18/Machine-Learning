@@ -3,9 +3,8 @@
 The ultimate goal is to make this repo full of awesome Machine Learning resources like blog articles, research papers, etc for easy reference.
 
 ## Topic wise notes
-The following notes stem from the course ['Machine Learning'](https://www.coursera.org/learn/machine-learning) organized by Prof. Andrew Ng, Stanford at Coursera. They can serve as a good refresher of some basic topics in Machine Learning, apart from being a helpful aid in the course.
+The following notes stem from the course ['Machine Learning'](https://www.coursera.org/learn/machine-learning) organized by Prof. Andrew Ng, Stanford at Coursera. They can serve as a good refresher of some basic topics in Machine Learning, apart from being a helpful aid in the course. You can also check out a week-wise distribution of these notes and the assignments at this [link](https://github.com/adityasaini70/Machine-Learning/tree/master/Courses/Machine%20Learning%20-%20Andrew%20Ng).
 
-| S no. | Topic |
 | ------------- | ------------- |
 | 1.  | [Simple Linear Regression](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week1-SimpleLinearRegression.pdf)  |
 | 2.  | [Multivariable Linear Regression](https://github.com/adityasaini70/Machine-Learning/blob/master/Courses/Machine%20Learning%20-%20Andrew%20Ng/Notes/Week2-MultivariableLinearRegression.pdf)  |
