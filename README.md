@@ -3,7 +3,7 @@
 The ultimate goal is to make this repo full of awesome Machine Learning resources like blog articles, research papers, etc for easy reference.
 
 ## Topic wise notes
-The following notes stem from the course tittled ['Machine Learning'](https://www.coursera.org/learn/machine-learning) organized by Prof. Andrew Ng, Stanford at Coursera. The notes can act as a good refersher of common topics in Machine Learning, apart from being a helpful aid in the course.
+The following notes stem from the course ['Machine Learning'](https://www.coursera.org/learn/machine-learning) organized by Prof. Andrew Ng, Stanford at Coursera. The notes can act as a good refersher of common topics in Machine Learning, apart from being a helpful aid in the course.
 
 | S no. | Topic |
 | ------------- | ------------- |
